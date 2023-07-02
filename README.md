@@ -1,1 +1,1 @@
-# Deploy ML models with FastAPI and Docker
+# Deploy MachineL models with FastAPI and Docker
