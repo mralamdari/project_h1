@@ -25,7 +25,6 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
